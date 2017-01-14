@@ -1,2 +1,3 @@
 # hello-world
-leer hoe dit werkt
+leren hoe dit werkt
+Ik ben nieuw hier en wil dit wel leren
